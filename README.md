@@ -1,1 +1,1 @@
-![snk](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
+![snk](https://github.com/xiyaowong/commit-snake/blob/snk/snk.svg)
